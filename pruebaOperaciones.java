@@ -11,10 +11,12 @@ public class pruebaOperaciones {
 
         System.out.println("Resultado desde clase prueba : "+resultado);
 
+        aritmetica1.sumarConArgumentos(5,8); 
 
         
     }
     
+
         
     
 }
